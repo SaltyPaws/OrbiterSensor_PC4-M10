@@ -1,6 +1,6 @@
 # OrbiterSensor_PC4-M10
 
-I created this file, because the original light guide does not hold the PTFE in place sufficiently to my taste.
+I created this file, because the original Orbiter Sensor light guide does not hold the PTFE in place sufficiently to my taste.
 
 <img src="https://github.com/SaltyPaws/OrbiterSensor_PC4-M10/blob/main/images/PXL_20240101_224017094.jpg" height="800" width="600" >
 
